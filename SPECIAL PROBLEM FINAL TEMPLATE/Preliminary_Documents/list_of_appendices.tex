@@ -1,0 +1,47 @@
+
+%\documentclass[openany]{book}
+
+%\usepackage[utf8]{inputenc}
+%\usepackage{array}
+%\usepackage{graphicx}
+%\usepackage[english]{babel}
+%\usepackage{fncychap}
+
+%\usepackage[toc]{appendix}
+%\usepackage[titles]{tocloft}
+
+ \newlistof{appendixchapter}{apx}{LIST OF APPENDICES}
+
+
+\newcommand{\appendixchapter}[1]{%
+    \refstepcounter{appendixchapter}%
+    \refstepcounter{chapter}%
+    \renewcommand{\DOTIS}[1]{\DOCH \DOTI{#1}}
+    \chapter*{#1}
+    \addcontentsline{apx}{appendixchapter}{Appendix \protect\numberline{\theappendixchapter}#1}\par%
+    \vspace {-1.47cm}}
+
+
+%\begin{document}
+
+
+
+    \listofappendixchapter
+    \pagenumbering{arabic}
+    \addcontentsline{toc}{chapter}{List of Appendices}
+
+
+
+    
+    \begin{appendices}
+
+    \appendixchapter{An appendix without sections}
+
+    \appendixchapter{An appendix with sections}
+    \appendixsection{An example section in an appendix}
+    \appendixsubsection{An example subsection in an appendix}
+    
+    \end{appendices}
+
+
+%\end{document}

@@ -1,0 +1,1890 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.2.21)  22 FEB 2019 16:00
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2018-12-01>
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article
+.cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.
+clo"
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\makeidx
+.sty"
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\mul
+tirow.sty"
+Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
+\multirow@colwidth=\skip43
+\multirow@cntb=\count88
+\multirow@dima=\skip44
+\bigstrutjot=\dimen103
+)
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\multic
+ol.sty"
+Package: multicol 2018/11/09 v1.8u multicolumn formatting (FMi)
+\c@tracingmulticols=\count89
+\mult@box=\box27
+\multicol@leftmargin=\dimen104
+\c@unbalance=\count90
+\c@collectmore=\count91
+\doublecol@number=\count92
+\multicoltolerance=\count93
+\multicolpretolerance=\count94
+\full@width=\dimen105
+\page@free=\dimen106
+\premulticols=\dimen107
+\postmulticols=\dimen108
+\multicolsep=\skip45
+\multicolbaselineskip=\skip46
+\partial@page=\box28
+\last@line=\box29
+\maxbalancingoverflow=\dimen109
+\mult@rightbox=\box30
+\mult@grightbox=\box31
+\mult@gfirstbox=\box32
+\mult@firstbox=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\c@columnbadness=\count95
+\c@finalcolumnbadness=\count96
+\last@try=\dimen110
+\multicolovershoot=\dimen111
+\multicolundershoot=\dimen112
+\mult@nat@firstbox=\box51
+\colbreak@box=\box52
+\mc@col@check@num=\count97
+)
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\eps
+topdf.sty"
+Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\eps
+topdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\i
+nfwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grf
+ext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\k
+vdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\l
+txcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvo
+ptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\key
+val.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\k
+vsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\e
+texcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\i
+fluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\p
+dftexcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\i
+fpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+
+Package epstopdf Warning: No graphics package `graphic{s,x}' loaded.
+
+))
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ulem\ulem.st
+y"
+\UL@box=\box53
+\UL@hyphenbox=\box54
+\UL@skip=\skip47
+\UL@hook=\toks15
+\UL@height=\dimen113
+\UL@pe=\count98
+\UL@pixel=\dimen114
+\ULC@box=\box55
+Package: ulem 2012/05/18
+\ULdepth=\dimen115
+)
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyp
+erref.sty"
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\h
+obsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\h
+obsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package hobsub Info: Skipping package `kvdefinekeys' (already loaded).
+Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\if
+xetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\aux
+hook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen116
+\Hy@linkcounter=\count99
+\Hy@pagecounter=\count100
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1
+enc.def"
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count101
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hyp
+erref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count102
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen117
+\Fld@menulength=\count103
+\Field@Width=\dimen118
+\Fld@charsize=\dimen119
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count104
+\c@Item=\count105
+\c@Hfootnote=\count106
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpd
+ftex.def"
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count107
+\c@bookmark@seq@number=\count108
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\rer
+unfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip48
+)
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsm
+ath.sty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amst
+ext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsg
+en.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen120
+))
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsb
+sy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen121
+)
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amso
+pn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count109
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count110
+\leftroot@=\count111
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count112
+\DOTSCASE@=\count113
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box56
+\strutbox@=\box57
+\big@size=\dimen122
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count114
+\c@MaxMatrixCols=\count115
+\dotsspace@=\muskip11
+\c@parentequation=\count116
+\dspbrk@lvl=\count117
+\tag@help=\toks17
+\row@=\count118
+\column@=\count119
+\maxfields@=\count120
+\andhelp@=\toks18
+\eqnshift@=\dimen123
+\alignsep@=\dimen124
+\tagshift@=\dimen125
+\tagwidth@=\dimen126
+\totwidth@=\dimen127
+\lineht@=\dimen128
+\@envbody=\toks19
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\ams
+symb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\ams
+fonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.
+sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count121
+\float@exts=\toks21
+\float@box=\box58
+\@float@everytoks=\toks22
+\@floatcapt=\box59
+)
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/paralist\par
+alist.sty"
+Package: paralist 2017/01/22 v2.7 Extended list environments
+\pltopsep=\skip52
+\plpartopsep=\skip53
+\plitemsep=\skip54
+\plparsep=\skip55
+\pl@lab=\toks23
+)
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/enumitem\enu
+mitem.sty"
+Package: enumitem 2019/02/04 v3.8 Customized lists
+\labelindent=\skip56
+\enit@outerparindent=\dimen129
+\enit@toks=\toks24
+\enit@inbox=\box60
+\enit@count@id=\count122
+\enitdp@description=\count123
+)
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/setspace\set
+space.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/sectsty\sect
+sty.sty"
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+)
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\longta
+ble.sty"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip57
+\LTright=\skip58
+\LTpre=\skip59
+\LTpost=\skip60
+\LTchunksize=\count124
+\LTcapwidth=\dimen130
+\LT@head=\box61
+\LT@firsthead=\box62
+\LT@foot=\box63
+\LT@lastfoot=\box64
+\LT@cols=\count125
+\LT@rows=\count126
+\c@LT@tables=\count127
+\c@LT@chunks=\count128
+\LT@p@ftn=\toks25
+)
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fan
+cyhdr.sty"
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip61
+\f@nch@O@elh=\skip62
+\f@nch@O@erh=\skip63
+\f@nch@O@olh=\skip64
+\f@nch@O@orh=\skip65
+\f@nch@O@elf=\skip66
+\f@nch@O@erf=\skip67
+\f@nch@O@olf=\skip68
+\f@nch@O@orf=\skip69
+)
+\@float@every@figure=\toks26
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.
+sty"
+Package: array 2018/11/13 v2.4j Tabular extension package (FMi)
+\col@sep=\dimen131
+\ar@mcellbox=\box65
+\extrarowheight=\dimen132
+\NC@list=\toks27
+\extratabsurround=\skip70
+\backup@length=\skip71
+\ar@cellbox=\box66
+)
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tabu\tabu.st
+y"
+Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/varwidth\var
+width.sty"
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box67
+\sift@deathcycles=\count129
+\@vwid@loff=\dimen133
+\@vwid@roff=\dimen134
+)
+\c@taburow=\count130
+\tabu@nbcols=\count131
+\tabu@cnt=\count132
+\tabu@Xcol=\count133
+\tabu@alloc=\count134
+\tabu@nested=\count135
+\tabu@target=\dimen135
+\tabu@spreadtarget=\dimen136
+\tabu@naturalX=\dimen137
+\tabucolX=\dimen138
+\tabu@Xsum=\dimen139
+\extrarowdepth=\dimen140
+\abovetabulinesep=\dimen141
+\belowtabulinesep=\dimen142
+\tabustrutrule=\dimen143
+\tabu@thebody=\toks28
+\tabu@footnotes=\toks29
+\tabu@box=\box68
+\tabu@arstrutbox=\box69
+\tabu@hleads=\box70
+\tabu@vleads=\box71
+\tabu@cellskip=\skip72
+)
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/adjustbox\ad
+justbox.sty"
+Package: adjustbox 2019/01/04 v1.2 Adjusting TeX boxes (trim, clip, ...)
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkey
+val.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xk
+eyval.tex"
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xk
+vutils.tex"
+\XKV@toks=\toks30
+\XKV@tempa@toks=\toks31
+)
+\XKV@depth=\count136
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/adjustbox\ad
+jcalc.sty"
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/adjustbox\tr
+imclip.sty"
+Package: trimclip 2018/04/08 v1.1 Trim and clip general TeX material
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\gra
+phicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\gra
+phics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\tri
+g.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg
+\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def
+\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen144
+\Gin@req@width=\dimen145
+)
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/collectbox\c
+ollectbox.sty"
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box72
+)
+\tc@llx=\dimen146
+\tc@lly=\dimen147
+\tc@urx=\dimen148
+\tc@ury=\dimen149
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/adjustbox\tc
+-pdftex.def"
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen150
+\adjbox@Height=\dimen151
+\adjbox@Depth=\dimen152
+\adjbox@Totalheight=\dimen153
+\adjbox@pwidth=\dimen154
+\adjbox@pheight=\dimen155
+\adjbox@pdepth=\dimen156
+\adjbox@ptotalheight=\dimen157
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ifoddpage\if
+oddpage.sty"
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count137
+))
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/wrapfig\wrap
+fig.sty"
+\wrapoverhang=\dimen158
+\WF@size=\dimen159
+\c@WF@wrappedlines=\count138
+\WF@box=\box73
+\WF@everypar=\toks32
+Package: wrapfig 2003/01/31  v 3.6
+)
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lis
+tings.sty"
+\lst@mode=\count139
+\lst@gtempboxa=\box74
+\lst@token=\toks33
+\lst@length=\count140
+\lst@currlwidth=\dimen160
+\lst@column=\count141
+\lst@pos=\count142
+\lst@lostspace=\dimen161
+\lst@width=\dimen162
+\lst@newlines=\count143
+\lst@lineno=\count144
+\lst@maxwidth=\dimen163
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lst
+misc.sty"
+File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
+\c@lstnumber=\count145
+\lst@skipnumbers=\count146
+\lst@framebox=\box75
+)
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lis
+tings.cfg"
+File: listings.cfg 2018/09/02 1.7 listings configuration
+))
+Package: listings 2018/09/02 1.7 (Carsten Heinz)
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\col
+or.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg
+\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geo
+metry.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+\Gm@cnth=\count147
+\Gm@cntv=\count148
+\c@Gm@tempcnt=\count149
+\Gm@bindingoffset=\dimen164
+\Gm@wd@mp=\dimen165
+\Gm@odd@mp=\dimen166
+\Gm@even@mp=\dimen167
+\Gm@layoutwidth=\dimen168
+\Gm@layoutheight=\dimen169
+\Gm@layouthoffset=\dimen170
+\Gm@layoutvoffset=\dimen171
+\Gm@dimlist=\toks34
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geo
+metry.cfg"))
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\helve
+t.sty"
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\indent
+first.sty"
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tocloft\tocl
+oft.sty"
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 51.
+\cftparskip=\skip73
+\cftbeforetoctitleskip=\skip74
+\cftaftertoctitleskip=\skip75
+\cftbeforepartskip=\skip76
+\cftpartnumwidth=\skip77
+\cftpartindent=\skip78
+\cftbeforesecskip=\skip79
+\cftsecindent=\skip80
+\cftsecnumwidth=\skip81
+\cftbeforesubsecskip=\skip82
+\cftsubsecindent=\skip83
+\cftsubsecnumwidth=\skip84
+\cftbeforesubsubsecskip=\skip85
+\cftsubsubsecindent=\skip86
+\cftsubsubsecnumwidth=\skip87
+\cftbeforeparaskip=\skip88
+\cftparaindent=\skip89
+\cftparanumwidth=\skip90
+\cftbeforesubparaskip=\skip91
+\cftsubparaindent=\skip92
+\cftsubparanumwidth=\skip93
+\cftbeforeloftitleskip=\skip94
+\cftafterloftitleskip=\skip95
+\cftbeforefigskip=\skip96
+\cftfigindent=\skip97
+\cftfignumwidth=\skip98
+\c@lofdepth=\count150
+\c@lotdepth=\count151
+\cftbeforelottitleskip=\skip99
+\cftafterlottitleskip=\skip100
+\cftbeforetabskip=\skip101
+\cfttabindent=\skip102
+\cfttabnumwidth=\skip103
+)
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/titlesec\tit
+lesec.sty"
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box76
+\beforetitleunit=\skip104
+\aftertitleunit=\skip105
+\ttl@plus=\dimen172
+\ttl@minus=\dimen173
+\ttl@toksa=\toks35
+\titlewidth=\dimen174
+\titlewidthlast=\dimen175
+\titlewidthfirst=\dimen176
+)
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputen
+c.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks36
+\inpenc@posthook=\toks37
+)
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/appendix\app
+endix.sty"
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count152
+\c@@ppsavesec=\count153
+\c@@ppsaveapp=\count154
+)
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\capt
+ion.sty"
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\capt
+ion3.sty"
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen177
+\captionmargin@=\dimen178
+\captionwidth=\dimen179
+\caption@tempdima=\dimen180
+\caption@indent=\dimen181
+\caption@parindent=\dimen182
+\caption@hangindent=\dimen183
+)
+\c@caption@flags=\count155
+\c@ContinuedFloat=\count156
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\ltca
+ption.sty"
+Package: ltcaption 2018/08/26 v1.4-95 longtable captions (AR)
+)
+Package caption Info: wrapfig package is loaded.
+)
+\c@appendix=\count157
+\cftbeforeappendixskip=\skip106
+\cftappendixindent=\skip107
+\cftappendixnumwidth=\skip108
+\c@appdepth=\count158
+\cftbeforeapptitleskip=\skip109
+\cftafterapptitleskip=\skip110
+\c@subappendix=\count159
+\cftbeforesubappendixskip=\skip111
+\cftsubappendixindent=\skip112
+\cftsubappendixnumwidth=\skip113
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/titlesec\blo
+ck.tss"
+File: block.tss 2016/03/15
+)
+
+LaTeX Warning: Unused global option(s):
+    [toc=flat,numbers=noenddot].
+
+(main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 147.
+
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ph
+v.fd"
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+\AtBeginShipoutBox=\box77
+Package hyperref Info: Link coloring OFF on input line 147.
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nam
+eref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\g
+ettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count160
+)
+LaTeX Info: Redefining \ref on input line 147.
+LaTeX Info: Redefining \pageref on input line 147.
+LaTeX Info: Redefining \nameref on input line 147.
+ (main.out) (main.out)
+\@outlinefile=\write3
+\openout3 = `main.out'.
+
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/context/base\supp-
+pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count161
+\scratchdimen=\dimen184
+\scratchbox=\box78
+\nofMPsegments=\count162
+\nofMParguments=\count163
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count164
+\MPscratchDim=\dimen185
+\MPnumerator=\count165
+\makeMPintoPDFobject=\count166
+\everyMPtoPDFconversion=\toks39
+)
+\c@lstlisting=\count167
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(108.405pt, 433.62001pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=433.62001pt
+* \textheight=650.43001pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 150.
+
+(Preliminary_Documents/Title.tex
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 5.
+) [1
+
+{C:/Users/ChristianSy/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(Preliminary_Documents/Recommendation_for_the_Oral_Defense.tex
+LaTeX Font Info:    Try loading font information for U+msa on input line 22.
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\ums
+a.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 22.
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\ums
+b.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 14.49998pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[2
+
+] (Preliminary_Documents/Results_of_Final_Defense.tex) [3]
+(Preliminary_Documents/Approval_Sheet.tex) [4]
+(Preliminary_Documents/Content_Adviser_Certi.tex) [5]
+(Preliminary_Documents/Program_Adviser_Certi.tex) [6]
+(Preliminary_Documents/Editor_Certi.tex) [7]
+(Preliminary_Documents/acknowledgement.tex) [8]
+(Preliminary_Documents/abstract.tex) [9]
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 176.
+ (main.toc
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 20.
+
+[10])
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+ [11]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.177 \listoftables
+                    \newpage
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+(main.lot)
+\tf@lot=\write5
+\openout5 = `main.lot'.
+
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 177.
+
+[12]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.178 \listoffigures
+                     \newpage
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+(main.lof)
+\tf@lof=\write6
+\openout6 = `main.lof'.
+
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 178.
+
+[13]
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 179.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.179 \listofappendix
+                      \newpage
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+(main.app)
+\tf@app=\write7
+\openout7 = `main.app'.
+
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 179.
+
+[14] (Chapters/chapter_1.tex
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 10.
+
+[1
+
+
+] [2] [3] [4] [5]) [6] (Chapters/chapter_2.tex
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 11.
+
+[7
+
+]) [8] [9] (Chapters/chapter_3.tex
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 11.
+
+<image/3-1.jpg, id=307, 475.02469pt x 232.61906pt>
+File: image/3-1.jpg Graphic file (type jpg)
+<use image/3-1.jpg>
+Package pdftex.def Info: image/3-1.jpg  used on input line 19.
+(pdftex.def)             Requested size: 426.80792pt x 256.1018pt.
+[10
+
+ <./image/3-1.jpg>]
+<image/cs_flowchart.jpg, id=312, 235.63031pt x 426.84468pt>
+File: image/cs_flowchart.jpg Graphic file (type jpg)
+<use image/cs_flowchart.jpg>
+Package pdftex.def Info: image/cs_flowchart.jpg  used on input line 37.
+(pdftex.def)             Requested size: 199.17212pt x 313.00085pt.
+ [11] [12 <./image/cs_flowchart.jpg>]
+<image/3-3.jpg, id=322, 523.20468pt x 386.19281pt>
+File: image/3-3.jpg Graphic file (type jpg)
+<use image/3-3.jpg>
+Package pdftex.def Info: image/3-3.jpg  used on input line 52.
+(pdftex.def)             Requested size: 426.80322pt x 312.97945pt.
+ [13]
+Overfull \hbox (2.31853pt too wide) in paragraph at lines 62--72
+ [][] 
+ []
+
+[14 <./image/3-3.jpg>]
+Overfull \hbox (2.31853pt too wide) in paragraph at lines 77--88
+ [][] 
+ []
+
+) [15] (Chapters/chapter_4.tex
+! You can't use `macro parameter character #' in horizontal mode.
+l.12 ... in the conduct of the study. (Objective #
+                                                  1) This includes discussio...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.12 ...s and generates topic models. (Objective #
+                                                  2) The Latent Dirichlet Al...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.12 ...to generate topic models, and (Objective #
+                                                  3) the extent of correctne...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 14.
+
+<image/cs_figure1.jpg, id=335, 310.91156pt x 204.765pt>
+File: image/cs_figure1.jpg Graphic file (type jpg)
+<use image/cs_figure1.jpg>
+Package pdftex.def Info: image/cs_figure1.jpg  used on input line 21.
+(pdftex.def)             Requested size: 426.79544pt x 256.08995pt.
+[16
+
+]
+<image/cs_figure2.jpg, id=340, 598.48593pt x 499.11469pt>
+File: image/cs_figure2.jpg Graphic file (type jpg)
+<use image/cs_figure2.jpg>
+Package pdftex.def Info: image/cs_figure2.jpg  used on input line 31.
+(pdftex.def)             Requested size: 369.88852pt x 199.17014pt.
+ [17 <./image/cs_figure1.jpg>]
+<image/cs_figure3.png, id=346, 968.11688pt x 422.32782pt>
+File: image/cs_figure3.png Graphic file (type png)
+<use image/cs_figure3.png>
+Package pdftex.def Info: image/cs_figure3.png  used on input line 41.
+(pdftex.def)             Requested size: 369.88249pt x 199.17073pt.
+ [18 <./image/cs_figure2.jpg>]
+<image/cs_figure4_1.jpg, id=351, 162.8484pt x 267.8808pt>
+File: image/cs_figure4_1.jpg Graphic file (type jpg)
+<use image/cs_figure4_1.jpg>
+Package pdftex.def Info: image/cs_figure4_1.jpg  used on input line 49.
+(pdftex.def)             Requested size: 113.8117pt x 199.1729pt.
+<image/cs_figure4_2.jpg, id=352, 406.51875pt x 722.7pt>
+File: image/cs_figure4_2.jpg Graphic file (type jpg)
+<use image/cs_figure4_2.jpg>
+Package pdftex.def Info: image/cs_figure4_2.jpg  used on input line 50.
+(pdftex.def)             Requested size: 113.80586pt x 199.16766pt.
+ [19 <./image/cs_figure3.png>]
+<image/cs_figure5.jpg, id=357, 406.51875pt x 722.7pt>
+File: image/cs_figure5.jpg Graphic file (type jpg)
+<use image/cs_figure5.jpg>
+Package pdftex.def Info: image/cs_figure5.jpg  used on input line 60.
+(pdftex.def)             Requested size: 113.80586pt x 199.16766pt.
+ [20 <./image/cs_figure4_1.jpg> <./image/cs_figure4_2.jpg>]
+<image/cs_figure6.jpg, id=362, 358.33875pt x 205.5178pt>
+File: image/cs_figure6.jpg Graphic file (type jpg)
+<use image/cs_figure6.jpg>
+Package pdftex.def Info: image/cs_figure6.jpg  used on input line 68.
+(pdftex.def)             Requested size: 341.4533pt x 199.17014pt.
+
+[21 <./image/cs_figure5.jpg>]
+
+! Package inputenc Error: Unicode character α (U+03B1)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.75 	\item [] α
+                  (alpha) is the parameter of the Dirichlet prior on the per...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character β (U+03B2)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.76 	\item [] β
+                  (beta) is the parameter of the Dirichlet prior on the per-...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character θ (U+03B8)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.77 	\item [] θ
+                 (theta)M  is the topic distribution for document M;
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character φ (U+03C6)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.78 	\item [] φ
+                 (phi)K is the word distribution for topic K;
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[22 <./image/cs_figure6.jpg>] [23]
+<image/cs_figure7.jpg, id=376, 354.57469pt x 233.37187pt>
+File: image/cs_figure7.jpg Graphic file (type jpg)
+<use image/cs_figure7.jpg>
+Package pdftex.def Info: image/cs_figure7.jpg  used on input line 101.
+(pdftex.def)             Requested size: 341.44286pt x 199.17891pt.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.105 ...in the conduct of the study. (Objective #
+                                                  1) This includes discussio...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.105 ... and generates topic models. (Objective #
+                                                  2) The Latent Dirichlet Al...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.105 ...o generate topic models, and (Objective #
+                                                  3) the extent of correctne...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+[24 <./image/cs_figure7.jpg>]
+<image/cs_figure8.jpg, id=381, 185.931pt x 74.5695pt>
+File: image/cs_figure8.jpg Graphic file (type jpg)
+<use image/cs_figure8.jpg>
+Package pdftex.def Info: image/cs_figure8.jpg  used on input line 109.
+(pdftex.def)             Requested size: 341.47598pt x 170.73134pt.
+ [25 <./image/cs_figure8.jpg>] [26]
+<image/cs_table1.jpg, id=390, 358.84062pt x 457.20813pt>
+File: image/cs_table1.jpg Graphic file (type jpg)
+<use image/cs_table1.jpg>
+Package pdftex.def Info: image/cs_table1.jpg  used on input line 129.
+(pdftex.def)             Requested size: 341.45514pt x 455.26059pt.
+ [27 <./image/cs_table1.jpg>]
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 140.
+
+
+! Package amsmath Error: Erroneous nesting of equation structures;
+(amsmath)                trying to recover with `aligned'.
+
+See the amsmath package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.146 \end{align*}
+                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package amsmath Error: Erroneous nesting of equation structures;
+(amsmath)                trying to recover with `aligned'.
+
+See the amsmath package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.159 \end{align*}
+                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[28]
+
+! Package amsmath Error: Erroneous nesting of equation structures;
+(amsmath)                trying to recover with `aligned'.
+
+See the amsmath package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.173 \end{align*}
+                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package amsmath Error: Erroneous nesting of equation structures;
+(amsmath)                trying to recover with `aligned'.
+
+See the amsmath package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.187 \end{align*}
+                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[29]) [30] (Chapters/chapter_5.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 4.
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 15.
+
+[31
+
+] [32]
+! Missing } inserted.
+<inserted text> 
+                }
+l.32 \end{enumerate}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[33] [34]) [35] (Bibliography/bibliography.tex [36
+
+]) [37
+
+]
+(Appendices/appendix_a.tex [38
+
+]
+<image/a1.JPG, id=458, 315.42844pt x 416.30531pt>
+File: image/a1.JPG Graphic file (type jpg)
+<use image/a1.JPG>
+Package pdftex.def Info: image/a1.JPG  used on input line 20.
+(pdftex.def)             Requested size: 398.3612pt x 512.2113pt.
+ [39
+
+ <./image/a1.JPG>]
+<image/a2.JPG, id=463, 297.36093pt x 423.83344pt>
+File: image/a2.JPG Graphic file (type jpg)
+<use image/a2.JPG>
+Package pdftex.def Info: image/a2.JPG  used on input line 30.
+(pdftex.def)             Requested size: 398.35721pt x 512.16743pt.
+ [40 <./image/a2.JPG>]
+<image/a3.JPG, id=468, 292.09125pt x 418.56375pt>
+File: image/a3.JPG Graphic file (type jpg)
+<use image/a3.JPG>
+Package pdftex.def Info: image/a3.JPG  used on input line 40.
+(pdftex.def)             Requested size: 398.37534pt x 512.1479pt.
+
+[41 <./image/a3.JPG>]
+<image/a4.JPG, id=474, 305.64188pt x 434.37282pt>
+File: image/a4.JPG Graphic file (type jpg)
+<use image/a4.JPG>
+Package pdftex.def Info: image/a4.JPG  used on input line 51.
+(pdftex.def)             Requested size: 398.35573pt x 512.21745pt.
+ [42 <./image/a4.JPG>]
+<image/a5.JPG, id=479, 307.1475pt x 426.09187pt>
+File: image/a5.JPG Graphic file (type jpg)
+<use image/a5.JPG>
+Package pdftex.def Info: image/a5.JPG  used on input line 62.
+(pdftex.def)             Requested size: 398.36374pt x 512.1789pt.
+ [43 <./image/a5.JPG>]
+<image/a6.JPG, id=484, 291.33844pt x 432.11438pt>
+File: image/a6.JPG Graphic file (type jpg)
+<use image/a6.JPG>
+Package pdftex.def Info: image/a6.JPG  used on input line 68.
+(pdftex.def)             Requested size: 398.37108pt x 512.20486pt.
+) [44 <./image/a6.JPG>] (Appendices/appendix_b.tex
+<image/appendix_b.PNG, id=489, 335.75438pt x 351.56343pt>
+File: image/appendix_b.PNG Graphic file (type png)
+<use image/appendix_b.PNG>
+Package pdftex.def Info: image/appendix_b.PNG  used on input line 3.
+(pdftex.def)             Requested size: 398.33847pt x 426.7878pt.
+) [45 <./image/appendix_b.PNG>]
+(Appendices/appendix_c.tex
+<image/c1.jpg, id=496, 232.61906pt x 326.72063pt>
+File: image/c1.jpg Graphic file (type jpg)
+<use image/c1.jpg>
+Package pdftex.def Info: image/c1.jpg  used on input line 10.
+(pdftex.def)             Requested size: 426.83517pt x 512.1997pt.
+) [46 <./image/c1.jpg>] (Appendices/appendix_d.tex)
+[47] (Appendices/appendix_e.tex
+<image/E.jpg, id=506, 468.24937pt x 998.22937pt>
+File: image/E.jpg Graphic file (type jpg)
+<use image/E.jpg>
+Package pdftex.def Info: image/E.jpg  used on input line 7.
+(pdftex.def)             Requested size: 398.35678pt x 512.16705pt.
+ [48 <./image/E.jpg>]
+<image/f1.jpg, id=511, 633.11531pt x 895.09406pt>
+File: image/f1.jpg Graphic file (type jpg)
+<use image/f1.jpg>
+Package pdftex.def Info: image/f1.jpg  used on input line 17.
+(pdftex.def)             Requested size: 398.34308pt x 512.162pt.
+<image/f2.jpg, id=512, 633.11531pt x 895.09406pt>
+File: image/f2.jpg Graphic file (type jpg)
+<use image/f2.jpg>
+Package pdftex.def Info: image/f2.jpg  used on input line 18.
+(pdftex.def)             Requested size: 398.34308pt x 512.162pt.
+ [49 <./image/f1.jpg>]
+[50 <./image/f2.jpg>]
+<image/d-1.jpg, id=521, 615.0478pt x 795.72281pt>
+File: image/d-1.jpg Graphic file (type jpg)
+<use image/d-1.jpg>
+Package pdftex.def Info: image/d-1.jpg  used on input line 28.
+(pdftex.def)             Requested size: 398.34045pt x 512.16273pt.
+ [51 <./image/d-1.jpg>]
+<image/g1.jpg, id=526, 633.11531pt x 895.09406pt>
+File: image/g1.jpg Graphic file (type jpg)
+<use image/g1.jpg>
+Package pdftex.def Info: image/g1.jpg  used on input line 38.
+(pdftex.def)             Requested size: 398.34308pt x 512.162pt.
+<image/g2.jpg, id=527, 633.11531pt x 895.09406pt>
+File: image/g2.jpg Graphic file (type jpg)
+<use image/g2.jpg>
+Package pdftex.def Info: image/g2.jpg  used on input line 39.
+(pdftex.def)             Requested size: 398.34308pt x 512.162pt.
+ [52 <./image/g1.jpg>] [53 <./image/g2.jpg>]
+<image/d3-1.jpg, id=537, 1028.34187pt x 578.16pt>
+File: image/d3-1.jpg Graphic file (type jpg)
+<use image/d3-1.jpg>
+Package pdftex.def Info: image/d3-1.jpg  used on input line 58.
+(pdftex.def)             Requested size: 369.88896pt x 227.61641pt.
+<image/d3-2.jpg, id=538, 1028.34187pt x 578.16pt>
+File: image/d3-2.jpg Graphic file (type jpg)
+<use image/d3-2.jpg>
+Package pdftex.def Info: image/d3-2.jpg  used on input line 61.
+(pdftex.def)             Requested size: 369.88896pt x 227.61641pt.
+ [54 <./image/d3-1.jpg> <./image/d3-2.jpg>]
+<image/d3-3.jpg, id=543, 1028.34187pt x 578.16pt>
+File: image/d3-3.jpg Graphic file (type jpg)
+<use image/d3-3.jpg>
+Package pdftex.def Info: image/d3-3.jpg  used on input line 64.
+(pdftex.def)             Requested size: 369.88896pt x 227.61641pt.
+<image/d3-4.jpg, id=544, 1028.34187pt x 578.16pt>
+File: image/d3-4.jpg Graphic file (type jpg)
+<use image/d3-4.jpg>
+Package pdftex.def Info: image/d3-4.jpg  used on input line 67.
+(pdftex.def)             Requested size: 369.88896pt x 227.61641pt.
+<image/d3-5.jpg, id=545, 1028.34187pt x 578.16pt>
+File: image/d3-5.jpg Graphic file (type jpg)
+<use image/d3-5.jpg>
+Package pdftex.def Info: image/d3-5.jpg  used on input line 70.
+(pdftex.def)             Requested size: 369.88896pt x 227.61641pt.
+ [55 <./image/d3-3.jpg> <./image/d3-4.jpg>]
+<image/d3-6.jpg, id=550, 1028.34187pt x 578.16pt>
+File: image/d3-6.jpg Graphic file (type jpg)
+<use image/d3-6.jpg>
+Package pdftex.def Info: image/d3-6.jpg  used on input line 80.
+(pdftex.def)             Requested size: 369.88896pt x 227.61641pt.
+<image/d3-7.jpg, id=551, 1028.34187pt x 578.16pt>
+File: image/d3-7.jpg Graphic file (type jpg)
+<use image/d3-7.jpg>
+Package pdftex.def Info: image/d3-7.jpg  used on input line 83.
+(pdftex.def)             Requested size: 369.88896pt x 227.61641pt.
+ [56 <./image/d3-5.jpg> <./image/d3-6.jpg>]
+<image/d3-8.jpg, id=556, 231.11343pt x 401.24907pt>
+File: image/d3-8.jpg Graphic file (type jpg)
+<use image/d3-8.jpg>
+Package pdftex.def Info: image/d3-8.jpg  used on input line 86.
+(pdftex.def)             Requested size: 227.62515pt x 170.72145pt.
+<image/d3-9.jpg, id=557, 1028.34187pt x 578.16pt>
+File: image/d3-9.jpg Graphic file (type jpg)
+<use image/d3-9.jpg>
+Package pdftex.def Info: image/d3-9.jpg  used on input line 89.
+(pdftex.def)             Requested size: 369.88896pt x 227.61641pt.
+ [57 <./image/d3-7.jpg> <./image/d3-8.jpg>]
+<image/d3-10.jpg, id=562, 1028.34187pt x 578.16pt>
+File: image/d3-10.jpg Graphic file (type jpg)
+<use image/d3-10.jpg>
+Package pdftex.def Info: image/d3-10.jpg  used on input line 99.
+(pdftex.def)             Requested size: 369.88896pt x 199.16547pt.
+<image/d3-11.jpg, id=563, 1028.34187pt x 578.16pt>
+File: image/d3-11.jpg Graphic file (type jpg)
+<use image/d3-11.jpg>
+Package pdftex.def Info: image/d3-11.jpg  used on input line 101.
+(pdftex.def)             Requested size: 369.88896pt x 199.16547pt.
+ [58 <./image/d3-9.jpg> <./image/d3-10.jpg>]
+<image/d3-12.jpg, id=568, 456.95718pt x 291.33844pt>
+File: image/d3-12.jpg Graphic file (type jpg)
+<use image/d3-12.jpg>
+Package pdftex.def Info: image/d3-12.jpg  used on input line 104.
+(pdftex.def)             Requested size: 199.16522pt x 170.71902pt.
+<image/d3-13.jpg, id=569, 455.45157pt x 416.30531pt>
+File: image/d3-13.jpg Graphic file (type jpg)
+<use image/d3-13.jpg>
+Package pdftex.def Info: image/d3-13.jpg  used on input line 107.
+(pdftex.def)             Requested size: 199.16922pt x 199.16998pt.
+ [59 <./image/d3-11.jpg> <./image/d3-12.jpg>]
+<image/d3-14.jpg, id=575, 456.95718pt x 389.20406pt>
+File: image/d3-14.jpg Graphic file (type jpg)
+<use image/d3-14.jpg>
+Package pdftex.def Info: image/d3-14.jpg  used on input line 110.
+(pdftex.def)             Requested size: 199.16522pt x 170.72176pt.
+<image/d3-15.jpg, id=576, 455.45157pt x 484.05844pt>
+File: image/d3-15.jpg Graphic file (type jpg)
+<use image/d3-15.jpg>
+Package pdftex.def Info: image/d3-15.jpg  used on input line 113.
+(pdftex.def)             Requested size: 199.16922pt x 199.16692pt.
+ [60 <./image/d3-13.jpg> <./image/d3-14.jpg>]
+<image/d3-16.jpg, id=581, 1028.34187pt x 578.16pt>
+File: image/d3-16.jpg Graphic file (type jpg)
+<use image/d3-16.jpg>
+Package pdftex.def Info: image/d3-16.jpg  used on input line 122.
+(pdftex.def)             Requested size: 369.88896pt x 199.16547pt.
+<image/d3-17.jpg, id=582, 456.20438pt x 233.37187pt>
+File: image/d3-17.jpg Graphic file (type jpg)
+<use image/d3-17.jpg>
+Package pdftex.def Info: image/d3-17.jpg  used on input line 125.
+(pdftex.def)             Requested size: 170.71423pt x 113.81194pt.
+
+[61 <./image/d3-15.jpg> <./image/d3-16.jpg>]
+<image/d3-18.jpg, id=587, 1028.34187pt x 578.16pt>
+File: image/d3-18.jpg Graphic file (type jpg)
+<use image/d3-18.jpg>
+Package pdftex.def Info: image/d3-18.jpg  used on input line 128.
+(pdftex.def)             Requested size: 369.88896pt x 199.16547pt.
+ [62 <./image/d3-17.jpg> <./image/d3-18.jpg>]
+<image/i.jpg, id=592, 895.09406pt x 633.11531pt>
+File: image/i.jpg Graphic file (type jpg)
+<use image/i.jpg>
+Package pdftex.def Info: image/i.jpg  used on input line 142.
+(pdftex.def)             Requested size: 398.34975pt x 426.80305pt.
+) [63 <./image/i.jpg>] (Appendices/appendix_f.tex
+<image/descriptionofcomponents.PNG, id=597, 327.47343pt x 388.45125pt>
+File: image/descriptionofcomponents.PNG Graphic file (type png)
+<use image/descriptionofcomponents.PNG>
+Package pdftex.def Info: image/descriptionofcomponents.PNG  used on input line 
+8.
+(pdftex.def)             Requested size: 398.34276pt x 512.16449pt.
+) [64 <./image/descriptionofcomponents.PNG>] (Appendices/appendix_g.tex
+Overfull \hbox (5.33241pt too wide) in paragraph at lines 11--11
+ \OT1/phv/m/n/12 TCID001| 
+ []
+
+
+Overfull \hbox (5.33241pt too wide) in paragraph at lines 20--20
+ \OT1/phv/m/n/12 TCID002| 
+ []
+
+) [65] (Appendices/appendix_h.tex
+<image/testdoc.jpg, id=608, 276.03125pt x 183.68625pt>
+File: image/testdoc.jpg Graphic file (type jpg)
+<use image/testdoc.jpg>
+Package pdftex.def Info: image/testdoc.jpg  used on input line 10.
+(pdftex.def)             Requested size: 256.09988pt x 170.72832pt.
+<image/testdoc2.jpg, id=609, 898.35625pt x 456.70625pt>
+File: image/testdoc2.jpg Graphic file (type jpg)
+<use image/testdoc2.jpg>
+Package pdftex.def Info: image/testdoc2.jpg  used on input line 14.
+(pdftex.def)             Requested size: 312.97636pt x 156.49063pt.
+<image/testdoc3.jpg, id=610, 300.12125pt x 168.63pt>
+File: image/testdoc3.jpg Graphic file (type jpg)
+<use image/testdoc3.jpg>
+Package pdftex.def Info: image/testdoc3.jpg  used on input line 18.
+(pdftex.def)             Requested size: 284.5503pt x 156.49234pt.
+) [66 <./image/testdoc.jpg> <./image/testdoc2.jpg> <./image/testdoc3.jpg>] (App
+endices/appendix_i.tex
+<image/login.png, id=615, 995.21812pt x 486.31688pt>
+File: image/login.png Graphic file (type png)
+<use image/login.png>
+Package pdftex.def Info: image/login.png  used on input line 17.
+(pdftex.def)             Requested size: 426.79652pt x 170.71063pt.
+ [67 <./image/login.png>]
+<image/profile_user.png, id=621, 1028.34187pt x 578.16pt>
+File: image/profile_user.png Graphic file (type png)
+<use image/profile_user.png>
+Package pdftex.def Info: image/profile_user.png  used on input line 26.
+(pdftex.def)             Requested size: 426.801pt x 199.16547pt.
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 36.
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omsph
+v.fd"
+File: omsphv.fd 
+)
+LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 36.
+<image/viewPaySlip.png, id=622, 1026.83624pt x 466.74374pt>
+File: image/viewPaySlip.png Graphic file (type png)
+<use image/viewPaySlip.png>
+Package pdftex.def Info: image/viewPaySlip.png  used on input line 38.
+(pdftex.def)             Requested size: 426.78717pt x 199.1718pt.
+
+Overfull \hbox (22.54185pt too wide) in paragraph at lines 38--39
+ [] 
+ []
+
+[68 <./image/profile_user.png>]
+<image/summaryOfAttendance.png, id=628, 1026.83624pt x 481.8pt>
+File: image/summaryOfAttendance.png Graphic file (type png)
+<use image/summaryOfAttendance.png>
+Package pdftex.def Info: image/summaryOfAttendance.png  used on input line 44.
+(pdftex.def)             Requested size: 426.78717pt x 199.16399pt.
+
+Overfull \hbox (22.54185pt too wide) in paragraph at lines 44--45
+ [] 
+ []
+
+[69 <./image/viewPaySlip.png> <./image/summaryOfAttendance.png>]
+<image/PISadmin1.png, id=635, 1025.33063pt x 458.46281pt>
+File: image/PISadmin1.png Graphic file (type png)
+<use image/PISadmin1.png>
+Package pdftex.def Info: image/PISadmin1.png  used on input line 52.
+(pdftex.def)             Requested size: 426.78719pt x 199.17087pt.
+<image/addemp_um.png, id=636, 411.03563pt x 301.125pt>
+File: image/addemp_um.png Graphic file (type png)
+<use image/addemp_um.png>
+Package pdftex.def Info: image/addemp_um.png  used on input line 60.
+(pdftex.def)             Requested size: 227.61945pt x 227.63055pt.
+ [70 <./image/PISadmin1.png>] [71 <./image/addemp_um.png>]
+<image/PISadmin2.png, id=648, 1028.34187pt x 578.16pt>
+File: image/PISadmin2.png Graphic file (type png)
+<use image/PISadmin2.png>
+Package pdftex.def Info: image/PISadmin2.png  used on input line 75.
+(pdftex.def)             Requested size: 426.801pt x 199.16547pt.
+<image/addpos_um.png, id=649, 371.13657pt x 159.59625pt>
+File: image/addpos_um.png Graphic file (type png)
+<use image/addpos_um.png>
+Package pdftex.def Info: image/addpos_um.png  used on input line 82.
+(pdftex.def)             Requested size: 227.62752pt x 113.8109pt.
+ [72 <./image/PISadmin2.png> <./image/addpos_um.png>]
+<image/addsalarygrade_um.png, id=656, 367.3725pt x 283.0575pt>
+File: image/addsalarygrade_um.png Graphic file (type png)
+<use image/addsalarygrade_um.png>
+Package pdftex.def Info: image/addsalarygrade_um.png  used on input line 92.
+(pdftex.def)             Requested size: 227.62843pt x 199.17548pt.
+ [73 <./image/addsalarygrade_um.png>] [74]
+<image/ams_um.png, id=666, 1008.76875pt x 492.33937pt>
+File: image/ams_um.png Graphic file (type png)
+<use image/ams_um.png>
+Package pdftex.def Info: image/ams_um.png  used on input line 103.
+(pdftex.def)             Requested size: 398.34384pt x 199.17097pt.
+<image/Holidays.png, id=667, 1028.34187pt x 578.16pt>
+File: image/Holidays.png Graphic file (type png)
+<use image/Holidays.png>
+Package pdftex.def Info: image/Holidays.png  used on input line 108.
+(pdftex.def)             Requested size: 398.33714pt x 199.16547pt.
+<image/LCequi.png, id=668, 1028.34187pt x 578.16pt>
+File: image/LCequi.png Graphic file (type png)
+<use image/LCequi.png>
+Package pdftex.def Info: image/LCequi.png  used on input line 112.
+(pdftex.def)             Requested size: 398.33714pt x 199.16547pt.
+ [75 <./image/ams_um.png> <./image/Holidays.png>]
+<image/upload.png, id=675, 409.53pt x 204.765pt>
+File: image/upload.png Graphic file (type png)
+<use image/upload.png>
+Package pdftex.def Info: image/upload.png  used on input line 116.
+(pdftex.def)             Requested size: 227.62927pt x 113.81462pt.
+ [76 <./image/LCequi.png> <./image/upload.png>]
+<image/PS_um.png, id=682, 251.43938pt x 225.84375pt>
+File: image/PS_um.png Graphic file (type png)
+<use image/PS_um.png>
+Package pdftex.def Info: image/PS_um.png  used on input line 123.
+(pdftex.def)             Requested size: 199.16821pt x 199.18076pt.
+<image/deducTables.png, id=683, 1028.34187pt x 578.16pt>
+File: image/deducTables.png Graphic file (type png)
+<use image/deducTables.png>
+Package pdftex.def Info: image/deducTables.png  used on input line 129.
+(pdftex.def)             Requested size: 398.33714pt x 199.16547pt.
+<image/Payroll.png, id=684, 995.97093pt x 378.66469pt>
+File: image/Payroll.png Graphic file (type png)
+<use image/Payroll.png>
+Package pdftex.def Info: image/Payroll.png  used on input line 133.
+(pdftex.def)             Requested size: 398.35092pt x 199.17172pt.
+
+[77 <./image/PS_um.png> <./image/deducTables.png>] [78 <./image/Payroll.png>]
+File: image/profile_user.png Graphic file (type png)
+<use image/profile_user.png>
+Package pdftex.def Info: image/profile_user.png  used on input line 141.
+(pdftex.def)             Requested size: 426.801pt x 199.16547pt.
+<image/editPDS.png, id=697, 1028.34187pt x 578.16pt>
+File: image/editPDS.png Graphic file (type png)
+<use image/editPDS.png>
+Package pdftex.def Info: image/editPDS.png  used on input line 152.
+(pdftex.def)             Requested size: 398.33714pt x 227.61641pt.
+
+[79]
+<image/calendar.png, id=702, 737.00343pt x 383.93437pt>
+File: image/calendar.png Graphic file (type png)
+<use image/calendar.png>
+Package pdftex.def Info: image/calendar.png  used on input line 156.
+(pdftex.def)             Requested size: 398.33578pt x 199.17249pt.
+<image/checkLC.png, id=703, 668.4975pt x 290.58563pt>
+File: image/checkLC.png Graphic file (type png)
+<use image/checkLC.png>
+Package pdftex.def Info: image/checkLC.png  used on input line 162.
+(pdftex.def)             Requested size: 369.89845pt x 227.6269pt.
+ [80 <./image/editPDS.png> <./image/calendar.png>]
+<image/Leave.png, id=710, 1028.34187pt x 578.16pt>
+File: image/Leave.png Graphic file (type png)
+<use image/Leave.png>
+Package pdftex.def Info: image/Leave.png  used on input line 167.
+(pdftex.def)             Requested size: 369.88896pt x 227.61641pt.
+ [81 <./image/checkLC.png> <./image/Leave.png>]
+<image/pass.png, id=717, 1028.34187pt x 578.16pt>
+File: image/pass.png Graphic file (type png)
+<use image/pass.png>
+Package pdftex.def Info: image/pass.png  used on input line 172.
+(pdftex.def)             Requested size: 369.88896pt x 227.61641pt.
+<image/viewDTR.png, id=718, 733.23938pt x 380.92313pt>
+File: image/viewDTR.png Graphic file (type png)
+<use image/viewDTR.png>
+Package pdftex.def Info: image/viewDTR.png  used on input line 176.
+(pdftex.def)             Requested size: 369.88577pt x 227.61983pt.
+) [82 <./image/pass.png> <./image/viewDTR.png>]
+(Appendices/appendix_j.tex
+LaTeX Font Info:    Try loading font information for OT1+qcr on input line 10.
+
+("C:\Users\ChristianSy\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tex-gyre\ot1
+qcr.fd"
+File: ot1qcr.fd 2009/09/25 v1.2 font definition file for OT1/qcr
+)
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 15.
+ (sourcecodes/getDTR.m
+LaTeX Font Info:    Try loading font information for OML+qcr on input line 2.
+LaTeX Font Info:    No file OMLqcr.fd. on input line 2.
+
+
+LaTeX Font Warning: Font shape `OML/qcr/m/n' undefined
+(Font)              using `OML/cmm/m/it' instead
+(Font)              for symbol `textless' on input line 2.
+
+
+Overfull \hbox (2.03188pt too wide) in paragraph at lines 3--4
+[][][][][][][][][] 
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+qcr on input line 5.
+LaTeX Font Info:    No file OMSqcr.fd. on input line 5.
+
+LaTeX Font Warning: Font shape `OMS/qcr/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbraceleft' on input line 5.
+
+[83])
+Underfull \hbox (badness 5077) in paragraph at lines 17--17
+|\OT1/phv/b/n/12 Get-ting and Dis-play-ing of Leave
+ []
+
+(sourcecodes/getLeave.m
+Overfull \hbox (2.03188pt too wide) in paragraph at lines 3--4
+[][][][][][][][][] 
+ []
+
+
+Overfull \hbox (14.99199pt too wide) in paragraph at lines 59--60
+[][][][][][][][][][][][][][][][] 
+ []
+
+) (sourcecodes/getPass.m
+Overfull \hbox (2.03188pt too wide) in paragraph at lines 3--4
+[][][][][][][][][] 
+ []
+
+[84]) (sourcecodes/check_changes.m
+Overfull \hbox (2.03188pt too wide) in paragraph at lines 3--4
+[][][][][][][][][] 
+ []
+
+
+Overfull \hbox (8.51193pt too wide) in paragraph at lines 11--12
+[][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (2.03188pt too wide) in paragraph at lines 14--15
+[][][][][][][][][][][][][] 
+ []
+
+) (sourcecodes/leaveCredits.m [85]
+Overfull \hbox (8.51193pt too wide) in paragraph at lines 146--147
+[][][][][][][][][][][][][][] 
+ []
+
+[86]
+Overfull \hbox (27.9521pt too wide) in paragraph at lines 220--221
+[][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (21.47205pt too wide) in paragraph at lines 221--222
+[][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (27.9521pt too wide) in paragraph at lines 224--225
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (21.47205pt too wide) in paragraph at lines 226--227
+[][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (27.9521pt too wide) in paragraph at lines 229--230
+[][][][][][][][][][][][][][][][][][][] 
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+|\OT1/phv/b/n/12 Add Em-ployee con-tains ba-sic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+\OT1/phv/b/n/12 in-for-ma-tion in cre-at-ing a new
+ []
+
+(sourcecodes/addEmployee.m
+Overfull \hbox (2.03188pt too wide) in paragraph at lines 3--4
+[][][][][][][][][] 
+ []
+
+
+Overfull \hbox (2.03188pt too wide) in paragraph at lines 48--49
+[][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (8.51193pt too wide) in paragraph at lines 68--69
+[][][][][][][][][][] 
+ []
+
+[87]
+Overfull \hbox (8.51193pt too wide) in paragraph at lines 117--118
+[][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (2.03188pt too wide) in paragraph at lines 159--160
+[][][][][][][][][][][] 
+ []
+
+[88]
+Overfull \hbox (27.9521pt too wide) in paragraph at lines 201--202
+[][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (2.03188pt too wide) in paragraph at lines 210--211
+[][][][][][][] 
+ []
+
+) (sourcecodes/assignRoles.m) (sourcecodes/payrollEmpdata.m [89]
+Overfull \hbox (8.51193pt too wide) in paragraph at lines 143--144
+[][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (8.51193pt too wide) in paragraph at lines 153--154
+[][][][][][][][][][][][] 
+ []
+
+[90] [91])) [92] (Curriculum_Vitae/curriculum_vitae.tex [93
+
+]
+<image/pic.png, id=1968, 225.84375pt x 225.84375pt>
+File: image/pic.png Graphic file (type png)
+<use image/pic.png>
+Package pdftex.def Info: image/pic.png  used on input line 19.
+(pdftex.def)             Requested size: 156.49014pt x 156.49744pt.
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.19 ...cludegraphics[width=5.5cm]{image/pic.png}}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+[94
+
+ <./image/pic.png>]
+File: image/pic.png Graphic file (type png)
+<use image/pic.png>
+Package pdftex.def Info: image/pic.png  used on input line 69.
+(pdftex.def)             Requested size: 156.49014pt x 156.49744pt.
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.69 ...cludegraphics[width=5.5cm]{image/pic.png}}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+[95]
+File: image/pic.png Graphic file (type png)
+<use image/pic.png>
+Package pdftex.def Info: image/pic.png  used on input line 119.
+(pdftex.def)             Requested size: 156.49014pt x 156.49744pt.
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.119 ...ludegraphics[width=5.5cm]{image/pic.png}}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 214.
+ [96]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 214.
+ (main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 214.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 214.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: D575F8CA308F2A22879776C1B0007364;2494.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 214.
+ ) 
+Here is how much of TeX's memory you used:
+ 14634 strings out of 492946
+ 224472 string characters out of 3123602
+ 416775 words of memory out of 3000000
+ 16724 multiletter control sequences out of 15000+200000
+ 19398 words of font info for 55 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 53i,12n,92p,1157b,2022s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/ChristianSy/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/tex-g
+yre/q-rmm.enc}{C:/Users/ChristianSy/AppData/Local/Programs/MiKTeX 2.9/fonts/enc
+/dvips/base/8r.enc}<C:/Users/ChristianSy/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/ChristianSy/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/ChristianSy/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/U
+sers/ChristianSy/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmsy10.pfb><C:/Users/ChristianSy/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmsy9.pfb><C:/Users/ChristianSy/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/public/tex-gyre/qcrr.pfb><C:/Users/ChristianSy/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/ChristianS
+y/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Use
+rs/ChristianSy/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro
+8a.pfb>
+Output written on main.pdf (110 pages, 5826026 bytes).
+PDF statistics:
+ 2298 PDF objects out of 2487 (max. 8388607)
+ 1372 named destinations out of 1440 (max. 500000)
+ 614 words of extra memory for PDF output out of 10000 (max. 10000000)
+

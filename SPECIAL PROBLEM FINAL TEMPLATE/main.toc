@@ -1,0 +1,31 @@
+\contentsline {section}{\numberline {}\relax \fontsize {12}{14.5}\selectfont \abovedisplayskip 12\p@ plus3\p@ minus7\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \belowdisplayskip \abovedisplayskip \let \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {RECOMMENDATION FOR THE ORAL DEFENSE}}{ii}{section.1}% 
+\contentsline {section}{\numberline {}\relax \fontsize {12}{14.5}\selectfont \abovedisplayskip 12\p@ plus3\p@ minus7\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \belowdisplayskip \abovedisplayskip \let \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {RESULTS OF FINAL DEFENSE}}{iii}{section.2}% 
+\contentsline {section}{\numberline {}\relax \fontsize {12}{14.5}\selectfont \abovedisplayskip 12\p@ plus3\p@ minus7\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \belowdisplayskip \abovedisplayskip \let \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {APPROVAL SHEET}}{iv}{section.3}% 
+\contentsline {section}{\numberline {}\relax \fontsize {12}{14.5}\selectfont \abovedisplayskip 12\p@ plus3\p@ minus7\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \belowdisplayskip \abovedisplayskip \let \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {CONTENT ADVISER'S CERTIFICATION}}{v}{section.4}% 
+\contentsline {section}{\numberline {}\relax \fontsize {12}{14.5}\selectfont \abovedisplayskip 12\p@ plus3\p@ minus7\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \belowdisplayskip \abovedisplayskip \let \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {PROGRAMMING ADVISER'S CERTIFICATION}}{vi}{section.5}% 
+\contentsline {section}{\numberline {}\relax \fontsize {12}{14.5}\selectfont \abovedisplayskip 12\p@ plus3\p@ minus7\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \belowdisplayskip \abovedisplayskip \let \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {EDITOR'S CERTIFICATION}}{vii}{section.6}% 
+\contentsline {section}{\numberline {}ACKNOWLEDGEMENT}{viii}{section.7}% 
+\contentsline {section}{\numberline {}ABSTRACT}{ix}{section.8}% 
+\contentsline {chapter}{\hspace {6mm}\textbf {CHAPTER 1 \hspace {8mm} INTRODUCTION \hspace {7.7cm}}}{1}{section.8}% 
+\contentsline {subsection}{\numberline {}Introduction}{1}{subsection.8.1}% 
+\contentsline {subsection}{\numberline {}Significance of the Research}{3}{subsection.8.2}% 
+\contentsline {subsection}{\numberline {}Objectives of the Project}{4}{subsection.8.3}% 
+\contentsline {subsection}{\numberline {}Scope and Limitations of the Project}{5}{subsection.8.4}% 
+\contentsline {subsection}{\numberline {}Definition of Terms}{6}{subsection.8.5}% 
+\contentsline {chapter}{\hspace {6mm}\textbf {CHAPTER 2 \hspace {8mm} RELATED LITERATURE AND STUDIES \hspace {3.2cm}}}{7}{subsection.8.5}% 
+\contentsline {subsection}{\numberline {}Technical Background}{7}{subsection.8.6}% 
+\contentsline {subsection}{\numberline {}Synthesis}{8}{subsection.8.7}% 
+\contentsline {chapter}{\hspace {6mm}\textbf {CHAPTER 3 \hspace {8mm} METHODOLOGY \hspace {7.3cm}}}{10}{subsection.8.7}% 
+\contentsline {subsection}{\numberline {}Research Methodology}{10}{subsection.8.8}% 
+\contentsline {subsection}{\numberline {}Design of Software}{13}{subsection.8.9}% 
+\contentsline {chapter}{\hspace {6mm}\textbf {CHAPTER 4 \hspace {8mm} RESULTS AND DISCUSSION \hspace {4.9cm}}}{16}{table.caption.2}% 
+\contentsline {subsection}{\numberline {}Features of the Develop NLP Tool / Game / Application}{16}{subsection.8.10}% 
+\contentsline {subsection}{\numberline {}Algorithm used for the Developed System / Application to achieve the necessary functions or output/s of the study.}{23}{subsection.8.11}% 
+\contentsline {subsection}{\numberline {}Performance Evaluation of the Classification Models using accuracy, precision F measures and recall metrics. }{28}{subsection.8.12}% 
+\contentsline {chapter}{\hspace {6mm} \textbf {CHAPTER 5} \hspace {7mm} \textbf {SUMMARY, FINDINGS, CONCLUSIONS AND \\ \hspace *{3.9cm} RECOMMENDATIONS} \hspace {6.3cm}}{31}{table.caption.4}% 
+\contentsline {subsection}{\numberline {}Summary of Findings and Accomplishments}{31}{subsection.8.13}% 
+\contentsline {subsection}{\numberline {} Conclusions}{33}{subsection.8.14}% 
+\contentsline {subsection}{\numberline {} Recommendations}{35}{subsection.8.15}% 
+\contentsline {section}{\numberline {}BIBLIOGRAPHY}{36}{section.9}% 
+\contentsline {section}{\numberline {}APPENDICES}{38}{section.10}% 
+\contentsline {section}{\numberline {}CURRICULUM VITAE}{93}{section.11}% 

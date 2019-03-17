@@ -1,0 +1,44 @@
+\documentclass{article}
+\usepackage{blindtext}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{graphicx}
+\usepackage{comment}
+\usepackage{array}
+\graphicspath{ {figures/} }
+
+\addto\captionsenglish{
+\renewcommand{\listfigurename}{LIST OF FIGURES}
+}
+
+%\begin{document}
+
+\thispagestyle{empty}
+
+Figure \hspace{10cm} Page \\
+\listoffigures
+
+
+\clearpage
+
+\pagenumbering{arabic}
+
+%Lorem ipsum dolor sit amet, consectetuer adipiscing elit.  Etiam lobortisfacilisis sem. Nullam nec mi et neque pharetra sollicitudin. Praesent imperdietmi nec ante. Donec ullamcorper, felis non sodales commodo, lectus velit ultricesaugue, a dignissim nibh lectus placerat pede.  Vivamus nunc nunc, molestieut, ultricies vel, semper in, velit.  Ut porttitor.  Praesent in sapien.  Loremipsum dolor sit amet, consectetuer adipiscing elit. 
+
+%Duis fringilla tristique neque.Sed interdum libero ut metus.  Pellentesque placerat.  Nam rutrum augue aleo. Morbi sed elit sit amet ante lobortis sollicitudin. Praesent blandit blanditmauris.  Praesent lectus tellus, aliquet aliquam, luctus a, egestas a, turpis.Mauris lacinia lorem sit amet ipsum. Nunc quis urna dictum turpis accumsansemper.
+
+\begin{figure}
+\centering
+\includegraphics[width=8cm]{Pgfplot3d3}
+\caption{Three dimensional graph}
+\label{fig:figure1}
+\end{figure}
+%\begin{figure}
+%\centering
+%\includegraphics[width=8cm]{Pgfplot3d3}
+%\caption{Three dimensional graph}
+%\label{fig:figure4}
+%\end{figure}
+
+
+%\end{document}
